@@ -1,4 +1,4 @@
-Guessing Number Game
+# Guessing Number Game
 
 Application is an API built by Java, Spring Boot JDBC template, and MySQL database.
 
